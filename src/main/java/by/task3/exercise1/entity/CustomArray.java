@@ -7,7 +7,7 @@ public class CustomArray implements Serializable {
 
     private static final long serialVersionUID = 1L;
     
-    int[] numbers;
+    private int[] numbers;
     
     public CustomArray(){}
 
